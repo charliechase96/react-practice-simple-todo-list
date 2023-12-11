@@ -2,8 +2,8 @@
   "name": "react-practice-simple-todo-list",
   "version": "1.0.0",
   "description": "simple todo list app to practice with information flow",
-  "main": "index.js",
-  "react-scripts": {
+  "main": "App.js",
+  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
