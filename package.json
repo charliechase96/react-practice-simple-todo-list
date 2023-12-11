@@ -1,0 +1,22 @@
+{
+  "name": "react-practice-simple-todo-list",
+  "version": "1.0.0",
+  "description": "simple todo list app to practice with information flow",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliechase96/react-practice-simple-todo-list.git"
+  },
+  "author": "Charlie Chase Gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charliechase96/react-practice-simple-todo-list/issues"
+  },
+  "homepage": "https://github.com/charliechase96/react-practice-simple-todo-list#readme"
+}
